@@ -1,6 +1,6 @@
 /*
 Write a java program for getting different colors through ArrayList interface and remove the
-2nd element and color "Blue" from the ArrayList
+2nd element and color "Blue" from the ArrayList.
 */
 
 
