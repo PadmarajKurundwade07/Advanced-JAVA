@@ -25,3 +25,8 @@ A comprehensive collection of Java programs and examples covering advanced conce
 1c_LinkedList_ElementWithPosition o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-1c_LinkedList_ElementWithPosition.png)
 
 1c_LinkedList_SwapElements o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-1c_LinkedList_SwapElements.png)
+
+# Output of string operations/StringBuffer/StringBuilder programs :
+2a_String_Operations_Demo o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-2a_String_Operations_Demo.png)
+
+2b_String_PerformanceTest o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-2b_String_PerformanceTest.png)
