@@ -14,3 +14,14 @@ A comprehensive collection of Java programs and examples covering advanced conce
 1b_Array_List_SubList o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-1b_Array_List_SubList.png)
 
 1b_Array_List_RemoveByIndex o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-1b_%20Array_List_RemoveByIndex.png)
+
+# Output of Linked List programs :
+1c_LinkedList_IterationFromSecond o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-1c_LinkedList_IterationFromSecond.png)
+
+1c_LinkedList_ReverseIteration o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-1c_LinkedList_ReverseIteration.png)
+
+1c_LinkedList_OfferLast o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-1c_LinkedList_OfferLast.png)
+
+1c_LinkedList_ElementWithPosition o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-1c_LinkedList_ElementWithPosition.png)
+
+1c_LinkedList_SwapElements o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-1c_LinkedList_SwapElements.png)
