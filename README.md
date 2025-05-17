@@ -33,4 +33,16 @@ A comprehensive collection of Java programs and examples covering advanced conce
 
 3a_String_Operations o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-3a_String_Operations.png)
 
+3b_String_IsNullOrEmptyCheck o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-3b_String_IsNullOrEmptyCheck.png)
+
+3b_String_SubstringCount o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-3b_String_SubstringCount.png)
+
+3b_String_ReverseStringProgram o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-3b_String_ReverseStringProgram.png)
+
+3b_String_PalindromeCheck o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-3b_String_PalindromeCheck.png)
+
+3b_String_RemoveWhitespace o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-3b_String_RemoveWhitespace.png)
+
+
+
 
