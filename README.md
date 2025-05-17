@@ -30,3 +30,7 @@ A comprehensive collection of Java programs and examples covering advanced conce
 2a_String_Operations_Demo o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-2a_String_Operations_Demo.png)
 
 2b_String_PerformanceTest o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-2b_String_PerformanceTest.png)
+
+3a_String_Operations o/p link :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/Screenshot-3a_String_Operations.png)
+
+
