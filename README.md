@@ -39,6 +39,8 @@ Ideal for 📚 academic reference, 💼 interview preparation, and 🔧 real-wor
 
 MapInterfaceDemo.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/MapInterfaceDemo.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------  
+
 📁 2a_HashMap-
 
 1. HashMapEntry.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2a_HashMap/Screenshot-HashMap_1.png)
@@ -46,12 +48,16 @@ MapInterfaceDemo.java :- [Output Screenshot](https://github.com/PadmarajKurundwa
 3. forEach.java      :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2a_HashMap/Screenshot-HashMap_3.png)
 4. HashmapEmpty.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2a_HashMap/Screenshot-HashMap_4.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------  
+
 📁 2b_TreeMap-
 
 1. TreeMapEntry.java    :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2b_TreeMap/Screenshot-Tree_Map_1.png)
 2. TreeMapContains.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2b_TreeMap/Screenshot-Tree_Map_2.png)
 3. TreeMapPut.java      :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2b_TreeMap/Screenshot-Tree_Map_3.png)
 4. TreeMapKey.java      :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-2_Set_Interface/2b_TreeMap/Screenshot-Tree_Map_4.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 2c_LinkedHashMap-
 
@@ -67,8 +73,12 @@ MapInterfaceDemo.java :- [Output Screenshot](https://github.com/PadmarajKurundwa
 📁 3a_StringOperations- 
 StringOperationsDemo.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3a_StringOperations/Screenshot-3a_String_Operations.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------  
+
 📁 3b_StringPerformanceTest-
 StringPerformanceTest.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3b_StringPerformanceTest/Screenshot-2b_String_PerformanceTest.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 3c_String_Exercises-
 1. IsNullOrEmptyCheck.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-3_String_Operations/3c_String_Exercises/Screenshot-3b_String_IsNullOrEmptyCheck.png)
@@ -113,8 +123,12 @@ StringPerformanceTest.java :- [Output Screenshot](https://github.com/PadmarajKur
 📁 6a_FactorialServlet-
 FactorialServlet.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-6_servlet_programs/6a_FactorialServlet/Screenshot-6a_FactorialServlet.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------  
+
 📁 6b_CookieServlet-
 CookieServlet.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-6_servlet_programs/6b_CookieServlet/Screenshot-6b_CookieServlet.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 6c_PrimeServlet-
 PrimeServlet.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-6_servlet_programs/6c_PrimeServlet/Screenshot-6c_PrimeServlet.png)
@@ -137,16 +151,24 @@ setCookie.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Adv
 
 ## 🐬 MySql_Setup :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/MySQL_Setup
 
+-----------------------------------------------------------------------------------------------------------------------------------------  
+
 📁 8a_Insert_Coffee-
 insert_coffee.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8a_Insert_Coffee/8a1.png) ||
 2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8a_Insert_Coffee/8a2.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 8b_Update_Coffee-
 update_coffee.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8b_Update_Coffee/8b1.png) ||
 2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8b_Update_Coffee/8b2.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------  
+
 📁 8c_JDBC_Append_Emp-
 insert_emp.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8c_JDBC_Append_Emp/Screenshot-8c_JDBC_append.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 8d_JDBC_Update_Emp-
 update_emp.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8d_JDBC_Update_Emp/Screenshot-8d_JDBC_Update.png)
@@ -157,16 +179,24 @@ update_emp.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Ad
 
 ## 🐬 MySql_Setup :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/MySQL_Setup)
 
+-----------------------------------------------------------------------------------------------------------------------------------------  
+
 📁 9a_Delete_Coffee- 
 delete_coffee.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9a_Delete_Coffee/9a1.png) ||
 2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9a_Delete_Coffee/9a2.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------  
+
 📁 9b_Query_Coffee-
 query_coffee.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9b_Query_Coffee/9b1.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 9c_JDBC_Append- 
 append.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9c_JDBC_Append/9c1.png) ||
 2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9c_JDBC_Append/9c2.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 9d_JDBC_Delete-
 delete.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9d_JDBC_Delete/9d1.png) ||
