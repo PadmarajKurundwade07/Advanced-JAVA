@@ -7,3 +7,5 @@
 5c. CountryCapitalList.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-5_Swings/Screenshot-5c_Swings_CountryCapitalList.png)
 
 5d. ColorTabbedPane.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-5_Swings/Screenshot-5d_Swings_ColorTabbedPane.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------  
