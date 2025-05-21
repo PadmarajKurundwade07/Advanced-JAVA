@@ -155,7 +155,7 @@ setCookie.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Adv
 
 ## 📁 EXP-8_JDBC_+_SQL :
 
-## 🐬 MySql_Setup :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/MySQL_Setup
+## 🐬 MySql_Setup :- [link](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/MySQL_Setup)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
