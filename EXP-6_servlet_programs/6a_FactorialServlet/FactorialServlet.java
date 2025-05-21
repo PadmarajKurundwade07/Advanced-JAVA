@@ -92,7 +92,6 @@ public class FactorialServlet extends HttpServlet {
 			throws ServletException, IOException {
 			response.sendRedirect("index.html");
 			}
-
 }
 
 
