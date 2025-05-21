@@ -23,8 +23,8 @@ b1.setBounds(100,200,100, 100);
 b1.addActionListener(new ActionListener(){
 public void actionPerformed(ActionEvent e){
 l1.setText("India is pressed");
-}
-});
+} 
+  });
 b2.setBounds(400,200,100, 100);
 b2.addActionListener(new ActionListener(){
 public void actionPerformed(ActionEvent e){
