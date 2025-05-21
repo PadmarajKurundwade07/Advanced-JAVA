@@ -16,6 +16,7 @@ Use StringBuilder when performance matters and you're not dealing with multiple 
 Use StringBuffer only when thread-safety is required.
 */
 
+
 package string;
 public class StringPerformanceTest {
     public static void main(String[] args) {
