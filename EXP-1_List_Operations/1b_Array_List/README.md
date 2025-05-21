@@ -1,1 +1,5 @@
-
+1. ColorSearch.java        :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-1_List_Operations/1b_Array_List/Screenshot-1b_Array_List_Search.png)
+2. ColorRemoval.java       :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-1_List_Operations/1b_Array_List/Screenshot-1b_Array_List_Remove.png)
+3. ColorSort.java          :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-1_List_Operations/1b_Array_List/Screenshot-1b_%20Array_List_Sort.png)
+4. ColorSubList.java       :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-1_List_Operations/1b_Array_List/Screenshot-1b_Array_List_SubList.png)
+5. ColorRemoveByIndex.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-1_List_Operations/1b_Array_List/Screenshot-1b_%20Array_List_RemoveByIndex.png)
