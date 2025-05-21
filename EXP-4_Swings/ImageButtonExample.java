@@ -4,7 +4,6 @@ depending upon the Jbutton with image either Digital Clock or Hour Glass is pres
 event handling mechanism with addActionListener().
 */
 
-
 package swings;
 import javax.swing.*;
 import java.awt.*;
