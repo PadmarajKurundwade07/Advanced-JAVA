@@ -1,4 +1,4 @@
-Run this SQL to create the table (if not already done):
+Run this SQL to create the table (if not already done) For Coffee Database:
 
 CREATE DATABASE IF NOT EXISTS test;
 USE test;
@@ -7,4 +7,18 @@ CREATE TABLE IF NOT EXISTS coffee (
     id INT PRIMARY KEY,
     coffee_name VARCHAR(100),
     price FLOAT
+);
+
+
+
+
+Run this SQL to create the table (if not already done) For Employee Database:
+
+CREATE DATABASE IF NOT EXISTS Employee;
+USE Employee;
+
+CREATE TABLE IF NOT EXISTS Emp (
+    Emp_NO INT PRIMARY KEY,
+    Emp_Name VARCHAR(100),
+    Basicsalary DOUBLE
 );
